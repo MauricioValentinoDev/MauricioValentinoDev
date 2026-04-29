@@ -1,5 +1,12 @@
 ## Hi there 👋
-
+🎓 Economics @ FEA-USP  
+📊 Fixed Income | Equity Research | Macro Research  
+💻 Python | R | Data Analysis  
+📈 Building projects in macroeconomics and financial markets
+🌱 I’m currently learning about enterprise competition and business.
+📫 How to reach me: mauriciovalentino1999@gmail.com
+😄 Pronouns: He/His
+⚡ Fun fact: I love paying volleyball (setter) and won high school chess championship 3 out of 3 times.
 <!--
 **MauricioValentinoDev/MauricioValentinoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
