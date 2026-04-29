@@ -1,8 +1,7 @@
 ## Hi there 👋
 🎓 Economics @ FEA-USP  
 📊 Fixed Income | Equity Research | Macro Research  
-💻 Python | R | Data Analysis  
-📈 Building projects in macroeconomics and financial markets
+💻 Python | R | Data Analysis
 🌱 I’m currently learning about enterprise competition and business.
 📫 How to reach me: mauriciovalentino1999@gmail.com
 😄 Pronouns: He/His
